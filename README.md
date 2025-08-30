@@ -78,11 +78,11 @@ Team members collaborated on:
 
 ## 🔗 Technologies Used
 
-  -Bolt.new (Frontend & Backend)
-  -HTML, CSS, JavaScript
-  -GitHub (Version Control)
-  -Node.js
-  -Real-Time Database (Firebase/Optional)
+  - Bolt.new (Frontend & Backend)
+  - HTML, CSS, JavaScript
+  - GitHub (Version Control)
+  - Node.js
+  - Real-Time Database (Firebase/Optional)
 
 ---
 
