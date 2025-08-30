@@ -95,8 +95,6 @@ Team members collaborated on:
 
 ---
 
----
-
 ## 📞 Contact
 
   - For any questions or contributions, feel free to reach out to the team via GitHub.
