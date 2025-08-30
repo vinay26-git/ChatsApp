@@ -58,21 +58,24 @@ Team members collaborated on:
 
 ---
 
-### Installation
-1. Clone the repository:
-```bash
-git clone https://github.com/vinay26-git/ChatsApp.git
+## 🔹 Features
 
-2. Navigate to the project folder:
-cd ChatsApp
+1. **Clone the repository**  
+   - git clone https://github.com/vinay26-git/ChatsApp.git
+   
+2. **Navigate to the project folder**  
+   - cd ChatsApp
 
-3.Install dependencies:
-npm install
+3. **Install dependencies**  
+   - npm install
 
-4.Run the application:
-npm start
+4. **Run the application**  
+   -  npm start
+     
+5. **Open your browser and go to http://localhost:3000**  
+   
+---
 
-5.Open your browser and go to http://localhost:3000
 
  ###🔗 Technologies Used
   -Bolt.new (Frontend & Backend)
