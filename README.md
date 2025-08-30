@@ -54,7 +54,9 @@ Team members collaborated on:
 ### Prerequisites
 - Node.js installed  
 - Git installed  
-- Bolt.new account (optional, for deployment)  
+- Bolt.new account (optional, for deployment)
+
+---
 
 ### Installation
 1. Clone the repository:
@@ -67,18 +69,17 @@ cd ChatsApp
 3.Install dependencies:
 npm install
 
-
 4.Run the application:
 npm start
 
 5.Open your browser and go to http://localhost:3000
 
  ###🔗 Technologies Used
- -Bolt.new (Frontend & Backend)
- -HTML, CSS, JavaScript
- -GitHub (Version Control)
- -Node.js
- -Real-Time Database (Firebase/Optional)
+  -Bolt.new (Frontend & Backend)
+  -HTML, CSS, JavaScript
+  -GitHub (Version Control)
+  -Node.js
+  -Real-Time Database (Firebase/Optional)
 
  ###📌 Key Learning Outcomes
   -Hands-on experience in team-based development
