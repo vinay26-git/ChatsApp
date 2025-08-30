@@ -86,22 +86,22 @@ Team members collaborated on:
 
 ---
 
+## 📌 Key Learning Outcomesed
 
- ###🔗 Technologies Used
-  -Bolt.new (Frontend & Backend)
-  -HTML, CSS, JavaScript
-  -GitHub (Version Control)
-  -Node.js
-  -Real-Time Database (Firebase/Optional)
+  - Hands-on experience in team-based development
+  - Planning and implementing real-time chat features
+  - Managing version control and collaborating via GitHub
+  - Integrating frontend and backend functionalities
 
- ###📌 Key Learning Outcomes
-  -Hands-on experience in team-based development
-  -Planning and implementing real-time chat features
-  -Managing version control and collaborating via GitHub
-  -Integrating frontend and backend functionalities
+---
 
-📞 Contact
+---
 
-For any questions or contributions, feel free to reach out to the team via GitHub.
-jejjari.vinay@gmail.com
+## 📞 Contact
+
+  - For any questions or contributions, feel free to reach out to the team via GitHub.
+     jejjari.vinay@gmail.com
+  
+---
+
 
